@@ -131,6 +131,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ |
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search) | Open Source :heavy_check_mark:, Desktop App :heavy_check_mark:, Multi Function :heavy_check_mark: | Multi-platform downloads |
 | [OMeter](https://github.com/EndoTheDev/OMeter)                      | Benchmark and compare Ollama models across local and cloud endpoints                              | python                   |
+| [LLMxRay](https://github.com/LogneBudo/llmxray)                      | Local observability UI: token streaming, prompt-cache measurement, logprob benchmarks, protocol comparison | npx, Docker              |
 
 ## Package Manager
 
